@@ -1,7 +1,3 @@
-# Fetch_assessment
-For the evaluators
-
-
 
 1. After cloning, run "go build".
 2. Run "go run main.go"
